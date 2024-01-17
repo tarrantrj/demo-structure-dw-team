@@ -15,6 +15,6 @@ Icon
 ~$*
 
 # VI
-.swp
+*.swp
 
 
