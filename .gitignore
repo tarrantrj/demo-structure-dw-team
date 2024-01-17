@@ -14,5 +14,7 @@ Icon
 # Microsoft temp files
 ~$*
 
+# VI
+.swp
 
 
