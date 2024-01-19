@@ -8,6 +8,8 @@ The following is a way to reference images
 ### Image
 Here's an image ![ERD Diagram](docs/SampleERDDiagramSVG.drawio.svg)
 
+Here's an image referenced from a website ![ERD Diagram web](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/ERD/discovery/erd-example.svg)
+
 ### Link to file in repo
 
 * [PDF Version of ERD Diagram](docs/SampleERDDiagramPDF.drawio.pdf)
